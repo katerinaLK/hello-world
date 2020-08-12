@@ -1,2 +1,3 @@
 # hello-world
-My ferst repository 
+My first repository 
+My first changes in this file.
